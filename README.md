@@ -13,14 +13,14 @@
     
   <br />
     
-  <a href="https://github.com/NazmusSayad">
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=NazmusSayad&theme=onedark&hide_title=true&hide_border=true&area=true" />
-  </a>
+
     
-  <br />
+
   <a href="https://github.com/NazmusSayad">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=NazmusSayad&show_icons=true&theme=onedark&hide_border=true&area=true" />
   </a>
-
-
+  <br />  <br />
+  <a href="https://github.com/NazmusSayad">
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=NazmusSayad&theme=onedark&hide_title=true&hide_border=true&area=true" />
+  </a>
 </p>
