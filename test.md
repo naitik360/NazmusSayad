@@ -1,3 +1,8 @@
+<style>
+    table {
+        width: 100%;
+    }
+</style>
 <table style="width:100%">
 
 <tbody>
