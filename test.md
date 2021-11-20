@@ -1,10 +1,11 @@
-<table style="float:'right'">
+<table>
 
 <tbody>
 
 <tr>
 
 <td  width="150" ><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"></td>
+<td  width="40vw" ><hr/></td>
 
 <td  width="150"  align="right"><img src="https://komarev.com/ghpvc/?username=NazmusSayad&label=Profile%20views&color=0e75b6&style=flat" alt="NazmusSayad"/></td>
 
