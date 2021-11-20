@@ -1,4 +1,4 @@
-<p align="right"><img src="https://komarev.com/ghpvc/?username=NazmusSayad&label=Profile%20views&color=0e75b6&style=flat" alt="NazmusSayad"/></p>
+<p align="right" ><img src="https://komarev.com/ghpvc/?username=NazmusSayad&label=Profile%20views&color=0e75b6&style=flat" alt="NazmusSayad"/></p>
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
@@ -18,6 +18,10 @@
   </a>
     
   <br />
-    
-  ![Tasnimuls's GitHub stats](https://github-readme-stats.vercel.app/api?username=NazmusSayad&show_icons=true&theme=algolia)
+    <div  align="center"  >
+
+  ![Sayad's GitHub stats](https://github-readme-stats.vercel.app/api?username=NazmusSayad&show_icons=true&theme=algolia)
+
+</div>
+
 </p>
