@@ -8,7 +8,7 @@
 
  <p align="center">
   <a href="https://github.com/NazmusSayad">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NazmusSayad&layout=compact&theme=algolia&langs_count=6" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NazmusSayad&layout=compact&theme=onedark&langs_count=6" />
   </a>
     
   <br />
