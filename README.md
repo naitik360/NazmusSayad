@@ -8,13 +8,13 @@
 
  <p align="center">
   <a href="https://github.com/NazmusSayad">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NazmusSayad&layout=compact&theme=algolia&langs_count=6" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NazmusSayad&layout=compact&theme=onedark&langs_count=6&hide_border=true&area=true" />
   </a>
     
   <br />
     
   <a href="https://github.com/NazmusSayad">
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=NazmusSayad&theme=react-dark&hide_title=true&hide_border=true&area=true" />
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=NazmusSayad&theme=onedark&hide_title=true&hide_border=true&area=true" />
   </a>
     
   <br />
