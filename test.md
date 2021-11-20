@@ -1,9 +1,4 @@
-<style>
-    table {
-        width: 100%;
-    }
-</style>
-<table style="width:100%">
+<table style="float:'right'">
 
 <tbody>
 
