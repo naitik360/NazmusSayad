@@ -18,13 +18,9 @@
   </a>
     
   <br />
-
-    <a align="center"  href="https://github.com/NazmusSayad"> 
-      ![Sayad's GitHub stats](https://github-readme-stats.vercel.app/api?username=NazmusSayad&show_icons=true&theme=algolia) 
-      
-      
-      </a>
-
+  <a href="https://github.com/NazmusSayad">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=NazmusSayad&show_icons=true&theme=onedark&hide_border=true&area=true" />
+  </a>
 
 
 </p>
