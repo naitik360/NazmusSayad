@@ -18,10 +18,13 @@
   </a>
     
   <br />
-    <div  align="center"  >
 
-    <a href="https://github.com/NazmusSayad"> ![Sayad's GitHub stats](https://github-readme-stats.vercel.app/api?username=NazmusSayad&show_icons=true&theme=algolia)  </a>
+    <a align="center"  href="https://github.com/NazmusSayad"> 
+      ![Sayad's GitHub stats](https://github-readme-stats.vercel.app/api?username=NazmusSayad&show_icons=true&theme=algolia) 
+      
+      
+      </a>
 
-</div>
+
 
 </p>
