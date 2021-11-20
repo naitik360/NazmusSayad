@@ -2,6 +2,9 @@
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NazmusSayad&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=DDDDDD&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&background=0D1117)](https://git.io/streak-stats)
+
 <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NazmusSayad&theme=algolia&hide_border=true"/>
 </p>
