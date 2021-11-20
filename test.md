@@ -1,19 +1,9 @@
-<table>
 
-<tbody>
-
-<tr>
 
 <td  width="150" ><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"></td>
-<td  width="40vw" ><hr/></td>
+<td  width="150"  align="right"><img align="right" src="https://komarev.com/ghpvc/?username=NazmusSayad&label=Profile%20views&color=0e75b6&style=flat" alt="NazmusSayad"/></td>
 
-<td  width="150"  align="right"><img src="https://komarev.com/ghpvc/?username=NazmusSayad&label=Profile%20views&color=0e75b6&style=flat" alt="NazmusSayad"/></td>
 
-</tr>
-
-</tbody>
-
-</table>
 
 <h1 style="font-size: 2rem;font-weight:bold" align="center">Hi, I am Nazmus Sayad</h1>
 <h3 align="center">A new frontend developer from Bangladesh</h3>
