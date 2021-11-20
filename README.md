@@ -1,6 +1,3 @@
-Hi there, thanks for stopping by, this is **Nazmus Sayad**.
-
-
 <p align="right"><img src="https://komarev.com/ghpvc/?username=NazmusSayad&label=Profile%20views&color=0e75b6&style=flat" alt="NazmusSayad"/></p>
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
