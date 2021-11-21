@@ -43,7 +43,7 @@
 
 </p>
 
-<br/>
+<br/><hr/>
 <h3 >Github Status:</h3>
 <p align="center">
   <a href="https://github.com/NazmusSayad"> 
