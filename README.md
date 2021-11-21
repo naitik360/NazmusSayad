@@ -26,7 +26,7 @@
 <h1 align="center"  width="150" > ----- <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> ----- </h1>
 <p align="center">
   <a href="#">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NazmusSayad&layout=compact&theme=onedark&langs_count=10&hide=lang&hide_border=true&area=true" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NazmusSayad&layout=compact&theme=onedark&langs_count=8&hide=lang&hide_border=true&area=true" />
   </a>
 </p>
 
