@@ -18,11 +18,11 @@
 <a href="https://instagram.com/nazmussayad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nazmussayad" height="30" width="40" /></a>
 <a href="https://www.behance.net/nazmussayad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="nazmussayad" height="30" width="40" /></a>
 </p>
-
+<br/>
 <hr/>
 <h1 align="center"  width="150" > ----- <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> ----- </h1>
 
-<br/>
+
 <p align="center">
   <a href="https://github.com/NazmusSayad">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NazmusSayad&layout=compact&theme=onedark&langs_count=6&hide_border=true&area=true" />
@@ -43,7 +43,8 @@
 
 </p>
 
-<br/><hr/>
+<br/>
+<hr/>
 <h3 >Github Status:</h3>
 <p align="center">
   <a href="https://github.com/NazmusSayad"> 
