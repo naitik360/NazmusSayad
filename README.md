@@ -26,7 +26,7 @@
 <h1 align="center"  width="150" >----- <a href="#"><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"></a> -----</h1>
 <p align="center">
   <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazmusSayad&layout=compact&theme=onedark&hide_border=true&area=true&langs_count=10&hide=css" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazmusSayad&layout=compact&theme=onedark&hide_border=true&area=true&hide=css&langs_count=10" />
   </a>
 </p>
 
