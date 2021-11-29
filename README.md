@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/nazmussayad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nazmussayad" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16347286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16347286" height="30" width="40" /></a>
 <a href="https://fb.com/nazmussayad2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nazmussayad2" height="30" width="40" /></a>
-<a href="https://instagram.com/nazmussayad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nazmussayad" height="30" width="40" /></a>
+<a href="https://www.instagram.com/nazmussayad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nazmussayad" height="30" width="40" /></a>
 <a href="https://www.behance.net/nazmussayad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="nazmussayad" height="30" width="40" /></a>
 </p>
 
