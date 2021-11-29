@@ -1,7 +1,7 @@
 <a href="#" align="right"><img align="right" src="https://komarev.com/ghpvc/?username=NazmusSayad&label=Profile%20views&color=0e75b6&style=flat" alt="NazmusSayad"/></a>
 
 <h1 style="font-size: 2rem;font-weight:bold" align="center">Hi, I am Nazmus Sayad</h1>
-<h3 align="center">A new frontend developer from Bangladesh.</h3>
+<h3 align="center">A newbie frontend developer from Bangladesh.</h3>
 
 - 📫 How to reach me **mailtosayad@gmail.com**
 
