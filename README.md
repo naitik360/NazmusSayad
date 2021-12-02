@@ -1,8 +1,12 @@
 <a href="#" align="right"><img align="right" src="https://komarev.com/ghpvc/?username=NazmusSayad&label=Profile%20views&color=0e75b6&style=flat" alt="NazmusSayad"/></a>
 
 <h1 style="font-size: 2rem;font-weight:bold" align="center">Hi, I am Nazmus Sayad</h1>
-<h3 align="center">A newbie frontend web developer.</h3>
+
+<h2 align="center">A newbie frontend web developer</h2>
 <p align="center">Satkhira, Khulna, Bangladesh</p>
+
+<br/>
+
 - 📫 How to reach me **mailtosayad@gmail.com**
 
 - ⚡ Fun fact **Actually, I forgot...**
@@ -26,7 +30,7 @@
 <h1 align="center"  width="150" >----- <a href="#"><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"></a> -----</h1>
 <p align="center">
   <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazmusSayad&layout=compact&theme=onedark&hide_border=true&area=true&langs_count=10" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazmusSayad&layout=compact&theme=onedark&hide_border=true&area=true" />
   </a>
 </p>
 
